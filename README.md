@@ -1,8 +1,8 @@
-# Burger Builder
+# Trillo
 
 Learning CSS and HTML project with focusing on flex box. Responsive website.
 
-https://trillo-97f6e.web.app
+Demo: https://trillo-97f6e.web.app
 
 <br/>
 
